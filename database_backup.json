@@ -1,0 +1,111 @@
+{
+    "users": {
+        "admin": {
+            "role": "ADMIN",
+            "password": "admin"
+        },
+        "aldrincute": {
+            "role": "ADMIN",
+            "password": "031806"
+        },
+        "aldrinpangit": {
+            "role": "ADMIN",
+            "password": "aldrinpangit123"
+        },
+        "customer": {
+            "role": "CUSTOMER",
+            "password": "123"
+        },
+        "jhoren": {
+            "role": "STAFF",
+            "password": "102424"
+        },
+        "staff": {
+            "role": "STAFF",
+            "password": "staff"
+        },
+        "taryong": {
+            "role": "CUSTOMER",
+            "password": "123123"
+        }
+    },
+    "events": {
+        "0175": {
+            "name": "pne",
+            "seats": {
+                "A2": "available",
+                "A1": "available",
+                "B1": "available",
+                "B2": "available",
+                "A3": "available"
+            },
+            "price": 2000.0
+        },
+        "09123": {
+            "name": "Jhorens",
+            "seats": {
+                "A1": "available",
+                "B1": "available",
+                "B2": "available",
+                "C3": "available",
+                "A2": "available",
+                "C1": "available",
+                "A3": "available",
+                "B3": "available",
+                "C2": "available"
+            },
+            "price": 1650.0
+        },
+        "E1": {
+            "name": "Concert A",
+            "seats": {
+                "A2": "booked",
+                "A1": "booked",
+                "A3": "booked"
+            },
+            "price": 100.0
+        },
+        "E2": {
+            "name": "enhypen",
+            "ticket_limit": 50,
+            "seats": {
+                "A2": "available",
+                "A1": "available",
+                "B1": "available",
+                "B2": "available",
+                "A3": "available"
+            },
+            "price": 1500.0,
+            "date_time": "2026-10-20 18:00"
+        }
+    },
+    "bookings": {
+        "QPO7iWJg4N5ydEdztU4S": {
+            "verified": false,
+            "event_name": "Concert A",
+            "amount": 100.0,
+            "seat": "A1",
+            "status": "Paid",
+            "event_id": "E1",
+            "customer": "taryong"
+        },
+        "VQC1z9mfQ4DCaNb3pl1R": {
+            "verified": false,
+            "event_name": "Concert A",
+            "amount": 100.0,
+            "seat": "A2",
+            "status": "Pending Payment",
+            "event_id": "E1",
+            "customer": "taryong"
+        },
+        "bO2vVq491d1nePp9BDoK": {
+            "verified": false,
+            "event_name": "Concert A",
+            "amount": 100.0,
+            "seat": "A2",
+            "status": "Paid",
+            "event_id": "E1",
+            "customer": "taryong"
+        }
+    }
+}

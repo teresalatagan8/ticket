@@ -1,0 +1,1405 @@
+{
+    "users": {
+        "admin": {
+            "role": "ADMIN",
+            "password": "admin"
+        },
+        "aldrincute": {
+            "role": "ADMIN",
+            "password": "031806"
+        },
+        "aldrinpangit": {
+            "role": "ADMIN",
+            "password": "aldrinpangit123"
+        },
+        "customer": {
+            "role": "CUSTOMER",
+            "password": "123"
+        },
+        "jhoren": {
+            "role": "STAFF",
+            "password": "102424"
+        },
+        "jhorens1": {
+            "role": "ADMIN",
+            "password": "Jhoren1"
+        },
+        "miming": {
+            "role": "STAFF",
+            "password": "mingming"
+        },
+        "staff": {
+            "role": "STAFF",
+            "password": "staff"
+        },
+        "tanswang": {
+            "role": "CUSTOMER",
+            "password": "aswang1"
+        },
+        "tantan": {
+            "role": "CUSTOMER",
+            "password": "tantan"
+        },
+        "taryong": {
+            "role": "CUSTOMER",
+            "password": "123123"
+        },
+        "taryongs": {
+            "role": "CUSTOMER",
+            "password": "aswang"
+        },
+        "teray2468": {
+            "role": "STAFF",
+            "password": "2468"
+        },
+        "tere": {
+            "role": "CUSTOMER",
+            "password": "teresa123"
+        },
+        "tere2468": {
+            "role": "ADMIN",
+            "password": "2468"
+        },
+        "teresa": {
+            "role": "STAFF",
+            "password": "teresa123"
+        },
+        "teresa2468": {
+            "role": "CUSTOMER",
+            "password": "2468"
+        }
+    },
+    "events": {
+        "31245": {
+            "normal_price": 500.0,
+            "name": "Aldrin Bisyo",
+            "ticket_limit": 200,
+            "date_time": "December 25, 2026 - 12:00 AM",
+            "vip_price": 5000.0,
+            "seats": {
+                "G8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "C2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "O4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "B1": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "M10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "R9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "H6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "H7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "D8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "B4": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "R3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "G1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A4": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "L5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "T2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "S9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "F10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A9": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "I5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "L10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A10": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "K9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "D3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "O2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "Q3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "I2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "M6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "F9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "G5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "N4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E5": {
+                    "status": "booked",
+                    "type": "Normal"
+                },
+                "M4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "L6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "T3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "M7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "H10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "L2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "S6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "P1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "O7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A6": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "I7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "O5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "C10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "N10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "I10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "M9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "D6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "H2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "O9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "O3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "Q4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "P5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "C1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "R5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "P3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "H5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "D2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "B5": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "T6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "N3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "T10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "C7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A3": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "K2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "K5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "R7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "F4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A5": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "K7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "N7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "S10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A8": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "P9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "B3": {
+                    "status": "booked",
+                    "type": "VIP"
+                },
+                "S4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A7": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "C5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "F7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "R10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "R8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "K6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "F8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "N9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "L7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "N1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "S7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "S3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "G7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "L1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "P2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "M1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "M5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "N6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "O8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "Q2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "S8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "F1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "G10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "I4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "B7": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "F2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "I1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "G2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "C4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "O1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "G9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "B6": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "E1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "M8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "L4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "Q10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "H3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "N5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "C6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "K8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "H9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "M3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "I8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "N8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "Q1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "T4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "H4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "T8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "P8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "P10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "C9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "S5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "K3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "G6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "G3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "F5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "C8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "R6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "T7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "M2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "D7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "T9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "L3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "I6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "T5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "K4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "H1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "I3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "G4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "Q7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "K1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "D4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "B10": {
+                    "status": "booked",
+                    "type": "VIP"
+                },
+                "B9": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "S2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "D5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "Q9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "R1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A1": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "H8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "P7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "S1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "B2": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "K10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "L9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "O10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "B8": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "F6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "P4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "F3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "N2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "T1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "D1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "Q5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "R2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "P6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "L8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "C3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A2": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "D10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "D9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "Q8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "Q6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "R4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "O6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "I9": {
+                    "status": "available",
+                    "type": "Normal"
+                }
+            }
+        },
+        "Ent": {
+            "normal_price": 2000.0,
+            "name": "Enhypen",
+            "ticket_limit": 120,
+            "seats": {
+                "G8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "B1": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "H6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "H7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "D8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "B4": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "G1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A4": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "L5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "F10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A10": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "I5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "L10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A9": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "K9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "D3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "I2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "G5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "F9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "H10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "L6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "L2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "I10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A6": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "I7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "C10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "D6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "H2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "C1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "H5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "D2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "B5": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "C7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A3": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "K2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "K5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "F4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A5": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "K7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A8": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "B3": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "A7": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "C5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "F7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "K6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "F8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "L7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "G7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "L1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "F1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "G10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "I4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "B7": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "F2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "I1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "J1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "C4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "G9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "G2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "C9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "H3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "B6": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "L4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "C6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "K8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "H9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "I8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "H4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "K3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "G6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "G3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "F5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "C8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "L3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "I6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "D7": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "K4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "H1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "I3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "G4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "K1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "D4": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "B10": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "B9": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "J8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "D5": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A1": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "H8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "B2": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "K10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "L9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "E9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "B8": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "F6": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "F3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "D1": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "D9": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "L8": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "C3": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "A2": {
+                    "status": "available",
+                    "type": "VIP"
+                },
+                "D10": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "C2": {
+                    "status": "available",
+                    "type": "Normal"
+                },
+                "I9": {
+                    "status": "available",
+                    "type": "Normal"
+                }
+            },
+            "vip_price": 3500.0,
+            "date_time": "January 22, 2026 - 08:00 PM"
+        }
+    },
+    "bookings": {
+        "HM81x8SX3hE42H4fK8dz": {
+            "payment_method": "Cash",
+            "event_name": "Aldrin Bisyo",
+            "amount": 10000.0,
+            "date_time": "December 25, 2026 - 12:00 AM",
+            "status": "Paid",
+            "event_id": "31245",
+            "customer": "tantan",
+            "seats_count": 2,
+            "ref_no": "REF-3D3E9990",
+            "verified": true,
+            "seats": [
+                "B10",
+                "B3"
+            ]
+        },
+        "P6SKV8L43AN74nFGKYH8": {
+            "payment_method": "E-Wallet (GCash/Maya)",
+            "event_name": "Aldrin Bisyo",
+            "amount": 500.0,
+            "date_time": "December 25, 2026 - 12:00 AM",
+            "status": "Paid",
+            "event_id": "31245",
+            "customer": "teresa2468",
+            "seats_count": 1,
+            "ref_no": "REF-32E3937E",
+            "verified": true,
+            "seats": [
+                "E5"
+            ]
+        }
+    }
+}
